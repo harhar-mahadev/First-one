@@ -1,2 +1,2 @@
 # First-one
-this is my  first repostitary
+this is my  first projet 
